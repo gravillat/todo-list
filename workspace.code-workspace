@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../js-lesson-1/js11 todo list"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "todo-list"
+	}
+}
